@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ait.WeatherServer.Wpf", "Ait.WheatherServer.Wpf\Ait.WeatherServer.Wpf.csproj", "{F745BE34-5E05-4A2B-AD5B-CAC67CBD36AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ait.WeatherServer.Core", "Ait.WheatherServer.Core\Ait.WeatherServer.Core.csproj", "{F586D38A-FE7E-4490-A983-72E93F42C8CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F745BE34-5E05-4A2B-AD5B-CAC67CBD36AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F745BE34-5E05-4A2B-AD5B-CAC67CBD36AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F745BE34-5E05-4A2B-AD5B-CAC67CBD36AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F745BE34-5E05-4A2B-AD5B-CAC67CBD36AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F586D38A-FE7E-4490-A983-72E93F42C8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F586D38A-FE7E-4490-A983-72E93F42C8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F586D38A-FE7E-4490-A983-72E93F42C8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F586D38A-FE7E-4490-A983-72E93F42C8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BE713E3-6AB3-4478-8904-1A0EAD0C4A53}
+	EndGlobalSection
+EndGlobal
